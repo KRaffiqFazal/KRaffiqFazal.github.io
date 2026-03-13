@@ -1,0 +1,6 @@
+{
+  "title": "Library Management System",
+  "description": "A WPF desktop application for managing a library, featuring book search, borrowing and returning, user management, and role-based access for members, librarians, and administrators.",
+  "tags": ["C#", "WPF", "XML", ".NET"],
+  "github": "https://github.com/KRaffiqFazal/Library-System-Project"
+}

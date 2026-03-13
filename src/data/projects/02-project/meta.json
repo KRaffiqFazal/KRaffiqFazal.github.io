@@ -1,0 +1,6 @@
+{
+  "title": "RSA Network Messaging Console",
+  "description": "A C# console application for secure network communication, implementing RSA encryption from scratch to encrypt and decrypt messages sent between devices over TCP.",
+  "tags": ["C#", ".NET", "RSA", "TCP", "Cryptography"],
+  "github": "https://github.com/KRaffiqFazal/RSA-Mini-Project"
+}

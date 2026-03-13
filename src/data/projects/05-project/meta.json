@@ -1,0 +1,6 @@
+{
+  "title": "Data Obfuscator",
+  "description": "A C# tool that masks sensitive JSON data based on rules defined in a configuration file, supporting full field obfuscation or partial value masking for privacy and data protection.",
+  "tags": ["C#", ".NET", "JSON"],
+  "github": "https://github.com/KRaffiqFazal/Data-Obfuscator"
+}
