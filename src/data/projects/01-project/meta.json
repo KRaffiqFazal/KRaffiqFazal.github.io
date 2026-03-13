@@ -1,0 +1,6 @@
+{
+  "title": "BSL Fingerspelling Application",
+  "description": "A final-year university project that classifies British Sign Language fingerspelling from a live camera feed, identifying the correct letters of the alphabet in real time.",
+  "tags": ["Python", "MediaPipe", "OpenCV"],
+  "github": "https://github.com/KRaffiqFazal/Fingerspelling-Application"
+}

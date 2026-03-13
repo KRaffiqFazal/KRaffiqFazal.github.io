@@ -1,0 +1,6 @@
+{
+  "title": "Broken Petrol Ltd",
+  "description": "A C# console application that manages petrol station operations, including vehicle fueling, user authentication, and end-of-day reporting.",
+  "tags": ["C#", ".NET"],
+  "github": "https://github.com/KRaffiqFazal/Broken-Petrol-Ltd-2"
+}
